@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Clubes Software<br>🌱 I’m currently learning .NET<br>💬 Ask me about<br>
+🌱 I’m currently learning Spring<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
